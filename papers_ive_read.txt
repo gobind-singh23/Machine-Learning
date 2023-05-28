@@ -1,0 +1,17 @@
+Deep Residual Learning for Image Recognition - https://arxiv.org/pdf/1512.03385.pdf
+
+Maxout Networks - https://arxiv.org/pdf/1302.4389.pdf 
+
+Expanding the reach of federated learning -  https://arxiv.org/pdf/1812.07210.pdf
+
+Attention is all you need - https://arxiv.org/pdf/1706.03762.pdf
+
+BERT - Pre training of deep bidirectional transfomers - https://arxiv.org/pdf/1810.04805.pdf
+
+An image is worth 16*16 (ViT) - https://arxiv.org/pdf/2010.11929.pdf
+
+The Illustrated Transformer - https://jalammar.github.io/illustrated-transformer/
+
+Persuasion Strategies in Advertisements - https://arxiv.org/pdf/2208.09626.pdf
+
+BLIP: Bootstrapping Language-Image Pre-training - https://arxiv.org/pdf/2201.12086.pdf
